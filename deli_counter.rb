@@ -28,4 +28,3 @@ def now_serving(array)
     puts "There is nobody waiting to be served!"
   end
 end
-© 2020 GitHub, Inc.
